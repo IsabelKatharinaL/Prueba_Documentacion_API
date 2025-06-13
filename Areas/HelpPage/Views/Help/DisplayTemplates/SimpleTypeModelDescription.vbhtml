@@ -1,0 +1,3 @@
+@Imports Prueba_Documentacion_API.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
